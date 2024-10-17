@@ -1,0 +1,12 @@
+D:\Users\ASUS\C#\LAPBT06\LAPBT06.DAL\bin\Debug\LAPBT06.DAL.dll.config
+D:\Users\ASUS\C#\LAPBT06\LAPBT06.DAL\bin\Debug\LAPBT06.DAL.dll
+D:\Users\ASUS\C#\LAPBT06\LAPBT06.DAL\bin\Debug\LAPBT06.DAL.pdb
+D:\Users\ASUS\C#\LAPBT06\LAPBT06.DAL\bin\Debug\EntityFramework.dll
+D:\Users\ASUS\C#\LAPBT06\LAPBT06.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\ASUS\C#\LAPBT06\LAPBT06.DAL\bin\Debug\EntityFramework.xml
+D:\Users\ASUS\C#\LAPBT06\LAPBT06.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\ASUS\C#\LAPBT06\LAPBT06.DAL\obj\Debug\LAPBT06.DAL.csproj.AssemblyReference.cache
+D:\Users\ASUS\C#\LAPBT06\LAPBT06.DAL\obj\Debug\LAPBT06.DAL.csproj.CoreCompileInputs.cache
+D:\Users\ASUS\C#\LAPBT06\LAPBT06.DAL\obj\Debug\LAPBT06..AB3070EF.Up2Date
+D:\Users\ASUS\C#\LAPBT06\LAPBT06.DAL\obj\Debug\LAPBT06.DAL.dll
+D:\Users\ASUS\C#\LAPBT06\LAPBT06.DAL\obj\Debug\LAPBT06.DAL.pdb
